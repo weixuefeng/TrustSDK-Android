@@ -1,5 +1,5 @@
 # TrustSDK-Android
-[![](https://jitpack.io/v/TrustWallet/TrustSdk-android.svg)](https://jitpack.io/#TrustWallet/TrustSdk-android)
+[![](https://jitpack.io/v/weixuefeng/TrustSdk-android.svg)](https://jitpack.io/#weixuefeng/TrustSdk-android)
 
 ## Getting started
 
