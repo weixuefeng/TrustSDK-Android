@@ -42,7 +42,7 @@ project.ext {
 }
 
 dependencies {
-    api "com.github.TrustWallet:TrustCoreAndroid:$project.trustCoreVersion"
+    api "com.github.weixuefeng:TrustCoreAndroid:$project.trustCoreVersion"
 
     implementation "com.google.code.gson:gson:$project.gsonVersion"
     implementation "com.android.support:appcompat-v7:$project.supportVersion"
